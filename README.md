@@ -3,7 +3,7 @@
 
 
 Hi, I'm Adesewa.
-I'm a passionate Frontend Developer skilled in HTML, CSS, JavaScript, and React. I love creating responsive and interactive websites that enhance user experiences. I'm on worked on multiple projects, including e-commerce websites,  food recipe website,  a threat intelligence dashboard, a todolist .
+I'm a passionate Frontend Developer skilled in HTML, CSS, JavaScript, and React. I love creating responsive and interactive websites that enhance user experiences. I've worked on multiple projects, including e-commerce websites,  food recipe website,  a threat intelligence dashboard, a todolist .
 
 🌱 Current Focus:
 
