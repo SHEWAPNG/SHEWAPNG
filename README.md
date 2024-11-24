@@ -1,7 +1,32 @@
-- 👋 Hi, I’m @SHEWAPNG
-- 👀 I’m interested in CODING ...
-- 🌱 I’m currently learning .HTML..
-- 💞️ I’m looking to collaborate on ALL WORKS ON WEB DEVELOPMENT ...
+
+
+
+
+Hi, I'm Adesewa.
+I'm a passionate Frontend Developer skilled in HTML, CSS, JavaScript, and React. I love creating responsive and interactive websites that enhance user experiences. I'm currently working on multiple projects, including e-commerce websites, recipe platforms, and personal portfolios.
+
+🌱 Current Focus:
+
+Building dynamic, frontend-only e-commerce websites using JavaScript and Bootstrap.
+
+Learning new technologies and improving my web development skills.
+
+
+🔧 Technologies & Tools:
+
+HTML, CSS, JavaScript
+
+React, Bootstrap, GitHub, VS Code
+
+APIs (Unsplash, Google Books)
+
+
+📫 Feel free to reach out to me for collaboration or freelance projects!
+
+
+
+
+
 - 📫 How to reach me  Olawumimojisola52@gmail.com...
 - 😄 Pronouns: she...
 - ⚡ Fun fact: jovial, friendly , ready to work with people
